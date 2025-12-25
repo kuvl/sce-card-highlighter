@@ -2,7 +2,7 @@
 
 A UserScript that allows you to highlight trading cards on [SteamCardExchange](https://www.steamcardexchange.net/) with a single click and export/import your wishlist.
 
-![Screenshot](Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/kuvl/sce-card-highlighter/main/Screenshot.png)
 ## Features
 - 🖱️ **One-click highlighting**: Click any card image to mark it.
 - 💾 **Save data**: Highlights are saved automatically in your browser.
