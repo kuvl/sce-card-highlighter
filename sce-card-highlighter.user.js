@@ -6,6 +6,7 @@
 // @author       kuvl
 // @match        https://www.steamcardexchange.net/index.php?inventorygame-appid-*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function () {
@@ -170,3 +171,4 @@
     }, 500);
 
 })();
+
