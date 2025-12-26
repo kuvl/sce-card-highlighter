@@ -16,6 +16,7 @@ A UserScript that allows you to highlight trading cards on [SteamCardExchange](h
 1. Select game on [SteamCardExchange Inventory](https://www.steamcardexchange.net/index.php?inventory).
 2. Click on card images to highlight them.
 3. Use the ⬆️/⬇️ arrows in the top-right corner of the game info block to export or import your data.
+
 ---
 <small>
 <b>Tags:</b> Steam Trading Cards, SteamCardExchange, SCE, Inventory Highlighter, Badge Crafting, Level Up, Steam Community, Helper, Tampermonkey, Violentmonkey, Userscript
